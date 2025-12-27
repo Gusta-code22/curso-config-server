@@ -18,4 +18,4 @@ management:
 
 greeting-service:
   greeting: "Hello"
-  default-value: "world"
+  default-value: "World"
